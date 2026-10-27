@@ -13,17 +13,12 @@
 - ✅ 把首页改成自己的文字，刷新后生效
 - ✅ 删容器重建，内容变回 "Welcome to nginx!"
 
-（截图 1：浏览器里的 nginx 页面）
+<img width="1438" height="752" alt="屏幕截图 2026-10-26 193428" src="https://github.com/user-attachments/assets/4d1b2912-5aa1-4ba3-b510-d9d701909c5f" />
 
+<img width="1448" height="767" alt="屏幕截图 2026-10-26 193528" src="https://github.com/user-attachments/assets/8b3fb954-34ea-4a32-820c-1244c31cd815" />
 
+<img width="1480" height="806" alt="屏幕截图 2026-10-26 193814" src="https://github.com/user-attachments/assets/2eb528fb-46c9-412f-9ec0-aa9d0c1e959a" />
 
-
-（截图 2：改成自己的文字之后）
-
-
-（截图 3：删容器重建，内容变回默认页）
-
----
 
 ## 环境准备（一次性，踩了四个坑）
 
