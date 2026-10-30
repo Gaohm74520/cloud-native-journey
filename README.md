@@ -16,3 +16,4 @@
 - [第 02 课：数据持久化](./day02/README.md)
 - [第 03 课：Dockerfile](./day03/README.md)
 - [第 04 课：网络与端口](./day04/README.md)
+- [2026 红帽挑战赛 · 初赛备考](./redhat-challenge/README.md)
