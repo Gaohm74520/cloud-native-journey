@@ -10,6 +10,7 @@
 | 02 | Volume 数据持久化 | 2026-10-27 | ✅ |
 | 03 | Dockerfile 自己做镜像 | 2026-10-27 | ✅ |
 | 04 | 网络与端口 | 2026-10-29 | ✅ |
+| 05 | Compose 多服务编排 | 2026-11-01 | ✅ |
 ## 目录
 
 - [第 01 课：容器是什么](./day01/README.md)
@@ -17,3 +18,4 @@
 - [第 03 课：Dockerfile](./day03/README.md)
 - [第 04 课：网络与端口](./day04/README.md)
 - [2026 红帽挑战赛 · 初赛备考](./redhat-challenge/README.md)
+- [第 05 课：Compose 多服务编排](./day05/README.md)
