@@ -8,6 +8,8 @@ jobs:
   say-hi:
     runs-on: ubuntu-latest
     steps:
+      - name: 拉取代码
+        uses: actions/checkout@v4
       - name: 打印一句话
         run: echo "流水线跑起来了"
 
