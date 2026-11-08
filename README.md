@@ -1,5 +1,6 @@
 # 从零学云原生
 
+
 一个计算机专业学生的技术成长记录。
 主线：云原生（Docker / K8s / CI/CD）
 兼收：运维实践（MySQL 高可用 / LVS / 监控）
@@ -18,6 +19,7 @@
 | 07 | Git 基础 | 2026-11-03 | ✅ |
 | 08 | CI/CD 自动构建镜像 | 2026-11-04 | ✅ |
 | 09 | K8s 入门：Pod / Deployment / Service | 2026-11-05 | ✅ |
+| 10 | 探针 + ConfigMap + Ingress | 2026-11-08 | ✅ |
 ## 目录
 
 - [第 01 课：容器是什么](./day01/README.md)
@@ -30,3 +32,4 @@
 - [第 07 课：Git 基础](./day07/README.md)
 - [第 08 课：CI/CD 自动构建](./day08/README.md)
 - [第 09 课：K8s 入门](./day09/README.md)
+- [第 10 课：探针、ConfigMap、Ingress](./day10/README.md)
