@@ -20,6 +20,7 @@
 | 08 | CI/CD 自动构建镜像 | 2026-11-04 | ✅ |
 | 09 | K8s 入门：Pod / Deployment / Service | 2026-11-05 | ✅ |
 | 10 | 探针 + ConfigMap + Ingress | 2026-11-08 | ✅ |
+| 11 | 项目迁移到 K8s | 2026-11-09 | ✅ |
 ## 目录
 
 - [第 01 课：容器是什么](./day01/README.md)
@@ -33,3 +34,4 @@
 - [第 08 课：CI/CD 自动构建](./day08/README.md)
 - [第 09 课：K8s 入门](./day09/README.md)
 - [第 10 课：探针、ConfigMap、Ingress](./day10/README.md)
+- [第 11 课：项目迁移到 K8s](./day11/README.md)
