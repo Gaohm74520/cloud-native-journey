@@ -21,6 +21,7 @@
 | 09 | K8s 入门：Pod / Deployment / Service | 2026-11-05 | ✅ |
 | 10 | 探针 + ConfigMap + Ingress | 2026-11-08 | ✅ |
 | 11 | 项目迁移到 K8s | 2026-11-09 | ✅ |
+| 12 | 存储 PV/PVC + Secret + Helm | 2026-11-11 | ✅ |
 ## 目录
 
 - [第 01 课：容器是什么](./day01/README.md)
@@ -35,3 +36,4 @@
 - [第 09 课：K8s 入门](./day09/README.md)
 - [第 10 课：探针、ConfigMap、Ingress](./day10/README.md)
 - [第 11 课：项目迁移到 K8s](./day11/README.md)
+- [第 12 课：存储、Secret、Helm](./day12/README.md)
