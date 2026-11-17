@@ -22,6 +22,8 @@
 | 10 | 探针 + ConfigMap + Ingress | 2026-11-08 | ✅ |
 | 11 | 项目迁移到 K8s | 2026-11-09 | ✅ |
 | 12 | 存储 PV/PVC + Secret + Helm | 2026-11-11 | ✅ |
+| 13 | NFS 与跨机存储（RWX） | 2026-11-12 | ✅ |
+| 14 | YAML 反向工程：字段、报错、哈希 | 2026-11-17 | ✅ |
 ## 目录
 
 - [第 01 课：容器是什么](./day01/README.md)
@@ -37,3 +39,5 @@
 - [第 10 课：探针、ConfigMap、Ingress](./day10/README.md)
 - [第 11 课：项目迁移到 K8s](./day11/README.md)
 - [第 12 课：存储、Secret、Helm](./day12/README.md)
+- [第 13 课：NFS 与跨机存储](./day13/README.md)
+- [第 14 课：YAML 反向工程](./day14/README.md)
