@@ -24,6 +24,7 @@
 | 12 | 存储 PV/PVC + Secret + Helm | 2026-11-11 | ✅ |
 | 13 | NFS 与跨机存储（RWX） | 2026-11-12 | ✅ |
 | 14 | YAML 反向工程：字段、报错、哈希 | 2026-11-17 | ✅ |
+| 15 | DNS+NFS+NGINX 综合案例 | 2026-11-21 | ✅ |
 ## 目录
 
 - [第 01 课：容器是什么](./day01/README.md)
@@ -41,3 +42,4 @@
 - [第 12 课：存储、Secret、Helm](./day12/README.md)
 - [第 13 课：NFS 与跨机存储](./day13/README.md)
 - [第 14 课：YAML 反向工程](./day14/README.md)
+- [第 15 课：DNS+NFS+NGINX 综合案例](./day15/README.md)
